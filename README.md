@@ -1,4 +1,4 @@
-# Demoq Test Automation Project
+# DemoQA Test Automation Project
 
 This project automates test scenarios for the **DemoQA** website using Selenium WebDriver in Java with TestNG. It is designed to validate various UI components and interactions on DemoQA, a demo site used for practicing UI automation. The project ensures functionality and consistency across different browsers.
 
